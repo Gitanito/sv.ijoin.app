@@ -4,6 +4,7 @@ title: Organisera din Skill-Share-kväll utan Krångel
 subtitle: Maximera Anmälningar för Dina Lokala Event utan Registrering
 tags: [eventplanering, skillshare]
 author: ijoin.app
+language: sv
 ---
 # Organisera din Skill-Share-kväll utan Krångel - Maxa Anmälningarna
 

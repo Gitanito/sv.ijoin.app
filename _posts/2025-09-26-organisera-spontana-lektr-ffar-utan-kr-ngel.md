@@ -4,6 +4,7 @@ title: Organisera Spontana Lekträffar Utan Krångel
 subtitle: Enkelt, gratis och supersnabbt sätt att samla föräldrar och barn
 tags: [lekdejt, eventplanering]
 author: ijoin.app
+language: sv
 ---
 
 # Samla Föräldragruppen för Lek på Minuter – Inte Timmar

@@ -4,6 +4,7 @@ title: Organisera din nästa vandring eller cykeltur utan krångel
 subtitle: Maximera deltagandet med en superenkel lösning för gruppträffar
 tags: [event-organisation, vandringsgrupp]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta jaga svar - Så maximerar du deltagandet på din vandrings- eller cykeltur

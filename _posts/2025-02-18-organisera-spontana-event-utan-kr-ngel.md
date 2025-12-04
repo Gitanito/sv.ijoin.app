@@ -4,6 +4,7 @@ title: Organisera Spontana Event Utan Krångel
 subtitle: Så här får du maximal svarsfrekvens till din nästa grillfest eller träff
 tags: [Eventplanering, Spontanitet]
 author: ijoin.app
+language: sv
 ---
 
 # Maximera Svarsfrekvensen till Din Spontana Grillkväll

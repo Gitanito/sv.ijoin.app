@@ -4,6 +4,7 @@ title: Sluta jaga svar - Hur du får koll på sportlagets närvaro direkt
 subtitle: Maximera svarsfrekvensen för träningar och matcher utan krångel
 tags: [Sportlag, Evenemangshantering]
 author: ijoin.app
+language: sv
 ---
 # Sluta jaga svar – Få 100% koll på sportlagets närvaro utan registrering
 

@@ -4,6 +4,7 @@ title: Organisera Spontan Pubkväll - Inga Fler Krångliga Svar
 subtitle: Maximera Deltagandet vid Sista Minuten-Event utan Registrering
 tags: [eventplanering, spontana möten]
 author: ijoin.app
+language: sv
 ---
 
 # Organisera Spontan Pubkväll - Inga Fler Krångliga Svar

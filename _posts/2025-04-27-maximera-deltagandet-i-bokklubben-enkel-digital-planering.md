@@ -4,6 +4,7 @@ title: Maximera Deltagandet i Bokklubben- Enkel Digital Planering
 subtitle: Slipp Krånglet med Svar på Veckomöten och Få Full Närvarokontroll
 tags: [bokklubb, eventplanering]
 author: ijoin.app
+language: sv
 ---
 
 # Maximera Deltagandet i Bokklubben- Enkel Digital Planering

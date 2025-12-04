@@ -4,6 +4,7 @@ title: Organisera Grannfesten Utan Krångel - Maximalt Deltagande
 subtitle: Sluta jaga svar - Så får du alla grannar att anmäla sig smidigt
 tags: [eventplanering, grannfest]
 author: ijoin.app
+language: sv
 ---
 
 # Organisera Grannfesten Utan Krångel - Maximalt Deltagande

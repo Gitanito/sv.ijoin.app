@@ -4,6 +4,7 @@ title: Slipp Stressen- Maximera Svaren till Barnkalaset
 subtitle: Det enkla sättet att samla in svar (OSA) till alla dina evenemang utan krångel
 tags: [evenemangsplanering, barnkalas]
 author: ijoin.app
+language: sv
 ---
 # Slipp Stressen- Maximera Svaren till Barnkalaset
 

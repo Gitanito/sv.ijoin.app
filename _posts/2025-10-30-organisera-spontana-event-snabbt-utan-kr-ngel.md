@@ -4,6 +4,7 @@ title: Organisera Spontana Event Snabbt Utan Krångel
 subtitle: Hur du maximalt ökar deltagandet vid nästa parkpicknick eller sociala träff
 tags: [eventplanering, parkpicknick]
 author: ijoin.app
+language: sv
 ---
 
 # Maximal Återkoppling för Ditt Spontana Parkpicknick-Flashmob

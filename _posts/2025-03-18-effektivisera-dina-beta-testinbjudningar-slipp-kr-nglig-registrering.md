@@ -4,6 +4,7 @@ title: Effektivisera dina Beta-testinbjudningar - Slipp krånglig registrering
 subtitle: Maximera deltagandet i dina produktlanseringar med enkel eventhantering
 tags: [Beta-test, Eventhantering]
 author: ijoin.app
+language: sv
 ---
 # Effektivisera dina Beta-testinbjudningar - Slipp krånglig registrering
 

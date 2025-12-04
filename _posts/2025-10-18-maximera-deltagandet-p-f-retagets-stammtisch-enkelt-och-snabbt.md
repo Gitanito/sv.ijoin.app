@@ -4,6 +4,7 @@ title: Maximera Deltagandet på Företagets Stammtisch - Enkelt och Snabbt
 subtitle: Sluta jaga svar - Så här fixar du företagsträffen utan krångel och registrering
 tags: [eventhantering, företagsevenemang]
 author: ijoin.app
+language: sv
 ---
 # Maximera Deltagandet på Företagets Stammtisch - Enkelt och Snabbt
 

@@ -4,6 +4,7 @@ title: Organisera Spontana Coworking-Träffar Utan Krångel
 subtitle: Maximera närvaron vid dina flexibla nätverksevent
 tags: [coworking, eventhantering]
 author: ijoin.app
+language: sv
 ---
 
 # Organisera Spontana Coworking-Träffar Utan Krångel

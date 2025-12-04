@@ -4,6 +4,7 @@ title: Få Snabbt Koll på AW-Gänget - Maxa Deltagandet i Kollegornas After Wor
 subtitle: Sluta jaga svar i chattgrupper. Organisera din spontana AW enkelt och gratis.
 tags: [Eventplanering, AfterWork]
 author: ijoin.app
+language: sv
 ---
 
 # Från Idé till Fullsatt Bord - Så Fixar Du Bästa AW:n Utan Krångel

@@ -4,6 +4,7 @@ title: Sluta jaga svar- Organisera skolutflykter utan e-postkaos
 subtitle: Så maximerar du anmälningarna och fyller alla bilplatser på nolltid
 tags: [skolutflykt, eventplanering]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta jaga svar: Koordinera Fahrgemeinschaften för skolutflykten enklare än någonsin

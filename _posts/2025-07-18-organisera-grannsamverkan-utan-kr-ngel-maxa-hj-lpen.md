@@ -4,6 +4,7 @@ title: Organisera Grannsamverkan Utan Krångel - Maxa Hjälpen
 subtitle: Den enkla metoden för att samla grannar för spontana insatser och projekt
 tags: [grannsamverkan, eventplanering]
 author: ijoin.app
+language: sv
 ---
 
 # Samla Grannarna på Minuter - Effektivare Hjälpinsatser

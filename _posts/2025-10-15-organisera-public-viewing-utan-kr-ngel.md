@@ -4,6 +4,7 @@ title: Organisera Public Viewing utan Krångel
 subtitle: Så samlar du vännerna till matchen – enkelt och snabbt
 tags: [Public Viewing, Eventplanering]
 author: ijoin.app
+language: sv
 ---
 
 # Samla Gruppen för Matchen – Allt via En Enda Länk

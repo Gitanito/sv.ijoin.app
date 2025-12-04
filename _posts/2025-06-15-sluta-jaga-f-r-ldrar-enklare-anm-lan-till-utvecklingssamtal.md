@@ -4,6 +4,7 @@ title: Sluta jaga föräldrar - Enklare anmälan till utvecklingssamtal
 subtitle: Maximera deltagandet vid föräldramöten och boka tidsslotar utan krångel
 tags: [föräldrasamtal, evenemangshantering]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta jaga föräldrar – Effektivare tidsbokning till utvecklingssamtal

@@ -4,6 +4,7 @@ title: Maximera Deltagandet i Din Workshop - Enkel Anmälan Utan Krångel
 subtitle: Sluta jaga anmälningar - Låt konstnärer och kreatörer anmäla sig direkt
 tags: [eventhantering, workshop]
 author: ijoin.app
+language: sv
 ---
 # Maximera Deltagandet i Din Workshop - Enkel Anmälan Utan Krångel
 

@@ -4,6 +4,7 @@ title: Sluta jaga svar - Enklaste sättet att organisera din spelkväll
 subtitle: Maximera deltagandet till din nästa brädspelsafton utan krångliga inloggningar
 tags: [eventorganisering, brädspel]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta jaga svar - Enklaste sättet att organisera din spelkväll

@@ -4,6 +4,7 @@ title: Konsertförfesten- Så Maximerar du Antalet Gäster Utan Krångel
 subtitle: Sluta jaga svar- Få 100% klara besked till din nästa sammankomst
 tags: [eventplanering, konsertförfest]
 author: ijoin.app
+language: sv
 ---
 # Konsertförfesten- Så Maximerar du Antalet Gäster Utan Krångel
 

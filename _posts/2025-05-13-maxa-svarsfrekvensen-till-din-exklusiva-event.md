@@ -4,6 +4,7 @@ title: Maxa Svarsfrekvensen till Din Exklusiva Event
 subtitle: Hemligheten bakom 100% närvaro på ditt pop-up-dinner
 tags: [Eventplanering, Pop-up-dinner]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta Jaga Svar - Få Dina Gäster Att Anmäla Sig till Ditt Pop-up-Dinner

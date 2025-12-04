@@ -4,6 +4,7 @@ title: Maximal studiefokus - Organisera din pluggkväll utan krångel
 subtitle: Sluta jaga svar - Samla din universitetsgrupp snabbt och effektivt
 tags: [eventorganisering, studentliv]
 author: ijoin.app
+language: sv
 ---
 
 # Maximal studiefokus - Organisera din pluggkväll utan krångel

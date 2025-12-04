@@ -4,6 +4,7 @@ title: Maximera Deltagandet på Din Temakväll - Enkel Anmälan Utan Krångel
 subtitle: Sluta jaga svar - Samla anmälningar till din läsning eller diskussionsrunda på det smidigaste sättet
 tags: [eventhantering, anmälan]
 author: ijoin.app
+language: sv
 ---
 
 # Från Oklart Intresse till Fullsatt Salong - Framgångsrik Anmälan för Temakvällar

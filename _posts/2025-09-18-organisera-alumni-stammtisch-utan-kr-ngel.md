@@ -4,6 +4,7 @@ title: Organisera Alumni-Stammtisch Utan Krångel
 subtitle: Maximera svarsfrekvensen till dina nätverksträffar - helt gratis
 tags: [Alumniträff, Eventplanering]
 author: ijoin.app
+language: sv
 ---
 # Organisera Alumni-Stammtisch Utan Krångel - Maximera Svarsfrekvensen
 

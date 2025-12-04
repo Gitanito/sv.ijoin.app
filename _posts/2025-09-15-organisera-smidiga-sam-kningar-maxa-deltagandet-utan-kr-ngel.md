@@ -4,6 +4,7 @@ title: Organisera Smidiga Samåkningar- Maxa Deltagandet Utan Krångel
 subtitle: Sluta jaga svar- Hitta förare och passagerare snabbt för sport och event
 tags: [Föreningsliv, Samåkning]
 author: ijoin.app
+language: sv
 ---
 
 # Organisera Smidiga Samåkningar- Maxa Deltagandet Utan Krångel

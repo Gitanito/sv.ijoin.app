@@ -4,6 +4,7 @@ title: Få Snabbare och Bättre Feedback för Din UX-Design
 subtitle: Maximera Svarsfrekvensen på Dina Inbjudningar till Användartester
 tags: feedback-session, event-organisation
 author: ijoin.app
+language: sv
 ---
 # Sluta jaga svar - Så här Fixar du Hög Svarsfrekvens på Dina Feedback-Sessioner
 

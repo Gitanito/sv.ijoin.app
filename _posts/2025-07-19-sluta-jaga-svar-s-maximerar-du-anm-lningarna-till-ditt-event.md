@@ -4,6 +4,7 @@ title: Sluta jaga svar - Så maximerar du anmälningarna till ditt event
 subtitle: Enkel eventplanering för föräldrarådet och föreningar - utan krångel
 tags: [Eventplanering, Föräldraråd]
 author: ijoin.app
+language: sv
 ---
 # Sluta jaga svar - Så maximerar du anmälningarna till ditt event
 

@@ -4,6 +4,7 @@ title: Maximera Anmälningar till Din Keramikkurs - Utan Krångel
 subtitle: Sluta jaga anmälningar och låt tekniken göra jobbet
 tags: [eventhantering, keramikkurs]
 author: ijoin.app
+language: sv
 ---
 # Maximera Anmälningar till Din Keramikkurs - Utan Krångel
 

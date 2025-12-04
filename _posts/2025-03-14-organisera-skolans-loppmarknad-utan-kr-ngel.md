@@ -4,6 +4,7 @@ title: Organisera skolans loppmarknad utan krångel
 subtitle: Få maximal respons från föräldrar och volontärer – helt gratis
 tags: [Skolflohmarkt, Volontärkoordination]
 author: ijoin.app
+language: sv
 ---
 
 # Sluta jaga svar – Så maximerar du anmälan till skolans loppmarknad och event

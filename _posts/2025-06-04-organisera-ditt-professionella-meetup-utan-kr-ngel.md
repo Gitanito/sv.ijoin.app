@@ -4,6 +4,7 @@ title: Organisera Ditt Professionella Meetup Utan Krångel
 subtitle: Få Maximalt Engagemang för Ditt Branschnätverkande
 tags: [eventplanering, nätverkande]
 author: ijoin.app
+language: sv
 ---
 
 # Få Maximalt Engagemang för Ditt Branschnätverk utan Registrering
